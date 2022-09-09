@@ -1,0 +1,19 @@
+modLoader="javafml" #mandatory
+loaderVersion="[41,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="MIT"
+
+[[mods]] 
+modId="breaking" 
+version="${file.jarVersion}" 
+displayName="Breaking Bad" 
+logoFile="examplemod.png" 
+credits="Thanks!" 
+authors="Robatortas" 
+
+description='''
+Made By Robatortas
+
+Just a goof.
+
+I will keep updating it (maybe).
+'''
